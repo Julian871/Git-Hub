@@ -1,4 +1,3 @@
-// Setup
 let sum = 0;
 
 function addThree() {
